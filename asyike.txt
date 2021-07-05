@@ -1,0 +1,6 @@
+VirusDB( 1)= "W32.Graphic1.cdr|BD2A019A9E86"
+VirusDB( 2)= "W32.Graphic2.cdr|A6D9A2A27645"
+VirusDB( 3)= "W32.Logo SKP.docx|9EE02C97AD2F"
+VirusDB( 4)= "W32.logo.cdr|B4018FB3B618"
+VirusDB( 5)= "W32.pagefile.sys|9554DE7AFE3F"
+VirusDB( 6)= "W32.PROYEK WAKA.docx|9C1D2E9F5948"
